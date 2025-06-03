@@ -1,0 +1,7 @@
+Rome: 500
+Carthage: 500
+Turns: 5
+Workers: 5
+Archers: 3
+Cavalry: 6
+Infantry: 4
